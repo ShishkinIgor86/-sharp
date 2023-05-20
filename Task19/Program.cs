@@ -38,7 +38,7 @@ else
 }
 }
 
-Console.Write("Введите 5-ти знаачное число: ");
+Console.Write("Введите 5-ти значное число: ");
 var chislo=Console.ReadLine();
 if (crr(chislo))
 {
